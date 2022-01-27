@@ -1,1 +1,5 @@
-Welcome to my fruitshop!
+# Welcome to my fruitshop!
+
+## First installation
+
+Intro beschrijving
